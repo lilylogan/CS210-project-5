@@ -1,0 +1,5 @@
+cave 3 3
+hwall 0 0 3
+vwall 0 0 3
+hwall 2 0 3
+vwall 0 2 3

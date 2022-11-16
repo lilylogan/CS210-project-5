@@ -1,0 +1,5 @@
+cave 15 15
+vwall 0 5 15
+vwall 0 10 15
+hwall 5 0 15
+hwall 10 0 15
